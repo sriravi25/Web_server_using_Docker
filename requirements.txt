@@ -1,0 +1,6 @@
+# Flask is a popular web framework for building web applications with Python. 
+# Here I am using the flask as requirements for this application
+
+flask
+
+# we can also mentions the versions according to your application.
