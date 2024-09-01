@@ -5,10 +5,10 @@
         2. requirements.txt
         3. application.py
 
-Open ubuntu or any other linux platforms and install the docker in it.
 
 # Workflow :
 
+> Open ubuntu or any other linux platforms and install the docker in it.
 >  Created a directory using the command mkdir
       mkdir my-web-server
 > Go to the directory
